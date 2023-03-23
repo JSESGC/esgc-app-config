@@ -50,11 +50,11 @@
   },
   "terms_conditions": {
     "title": "Terms & Conditions",
-    "url": "/hkca-terms-of-use.pdf"
+    "url": "/esgc-terms-of-use.pdf"
   },
   "privacy_policy": {
     "title": "Privacy Policy",
-    "url": "/hkca-privacy-policy.pdf"
+    "url": "/esgc-privacy-policy.pdf"
   },
   "otp": {
     "sent_to_mobile": "A message with OTP has been sent to {}.\nPlease enter the code to continue."
@@ -105,15 +105,15 @@
       "mode": "Dark Mode",
       "terms_conditions": {
         "title": "Terms & Conditions",
-        "url": "/hkca-terms-of-use.pdf"
+        "url": "/esgc-terms-of-use.pdf"
       },
       "privacy_policy": {
         "title": "Privacy Policy",
-        "url": "/hkca-privacy-policy.pdf"
+        "url": "/esgc-privacy-policy.pdf"
       },
       "faq": {
         "title": "FAQ",
-        "url": "/hkca-about-qa.pdf"
+        "url": "/esgc-about-qa.pdf"
       }
     },
     "version": "Version"
