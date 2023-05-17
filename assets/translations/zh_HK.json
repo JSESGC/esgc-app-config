@@ -1,5 +1,5 @@
 {
-  "app.name": "ESG環友狸",
+  "app.name": "ESG環友理",
   "language": {
     "short": "EN",
     "en": "English",
@@ -76,17 +76,34 @@
   },
   "title": {
     "redemption": "禮品兌換",
+    "events": "熱門活動",
     "contact": "通訊",
-    "home": "",
+    "home": "ESG環友理",
     "activity": "ESG獎賞活動",
     "profile": "我的ESG空間",
     "qrcode": "二維碼",
     "settings": "設置",
     "asset_wallet": "我的資產",
     "my_level": "我的級別",
-    "my_activity": "我的ESG活動",
+    "my_activity": "我的活動",
     "redemption_history": "兌換歷史",
-    "transaction_history": "交易歷史"
+    "transaction_history": "交易歷史",
+    "experience": "氧氣值：{}",
+    "start_datetime": "開始時間：{}",
+    "end_datetime": "結束時間：{}",
+    "e_coin": "E金幣",
+    "s_coin": "S金幣",
+    "g_coin": "G金幣"
+  },
+  "filter": {
+    "all": "全部",
+    "gift": "禮品",
+    "luck_draw": "抽獎券",
+    "nft": "NFT",
+    "service": "服務",
+    "environmental": "環境",
+    "social": "社會",
+    "governance": "管治"
   },
   "subtitle": {
     "more": "更多"
@@ -130,17 +147,20 @@
   },
   "event": {
     "start_date": "開始日",
-    "end_date": "截止日"
+    "end_date": "截止日",
+    "empty": "暫時沒有活動"
   },
   "prize": {
     "points": "{}金幣",
     "sold_out": "沒有存貨"
   },
   "redeem": {
-    "points": "{}金幣"
+    "points": "{}金幣",
+    "empty": "暫時沒有兌換"
   },
   "transactions": {
-    "points": "{}金幣"
+    "points": "{}金幣",
+    "empty": "暫時沒有紀錄"
   },
   "profile": {
     "points": "X{}"
@@ -151,7 +171,7 @@
   "dialog": {
     "check_in": {
       "title": "打卡成功",
-      "content": "從活動「{}」中獲得{}個金幣"
+      "content": "從活動「{name}」中獲得{points}個{type}金幣"
     },
     "redeem": {
       "title": "兌換成功",

@@ -1,5 +1,5 @@
 {
-  "app.name": "ESG環友狸",
+  "app.name": "ESG環友理",
   "language": {
     "short": "中",
     "en": "English",
@@ -72,17 +72,34 @@
   },
   "title": {
     "redemption": "Gift Redemption",
+    "events": "Hot Events",
     "contact": "Contact",
-    "home": "",
+    "home": "ESGC",
     "activity": "ESG Events",
     "profile": "My ESG",
     "qrcode": "QRCode",
     "settings": "Settings",
     "asset_wallet": "My Asset",
     "my_level": "My Level",
-    "my_activity": "My ESG Activity",
+    "my_activity": "My Activity",
     "redemption_history": "Redemption History",
-    "transaction_history": "Transaction History"
+    "transaction_history": "Transaction History",
+    "experience": "Oxygen Experience: {}",
+    "start_datetime": "Start DateTime: {}",
+    "end_datetime": "End DateTime：{}",
+    "e_coin": "E coin",
+    "s_coin": "S coin",
+    "g_coin": "G coin"
+  },
+  "filter": {
+    "all": "All",
+    "gift": "Gift",
+    "luck_draw": "Luck Draw",
+    "nft": "NFT",
+    "service": "Service",
+    "environmental": "Environmental",
+    "social": "Social",
+    "governance": "Governance"
   },
   "subtitle": {
     "more": "More"
@@ -126,17 +143,20 @@
   },
   "event": {
     "start_date": "Start Date",
-    "end_date": "End Date"
+    "end_date": "End Date",
+    "empty": "No Event"
   },
   "prize": {
     "points": "{} Coins",
     "sold_out": "Out of Stock"
   },
   "redeem": {
-    "points": "{} Coins"
+    "points": "{} Coins",
+    "empty": "No Redemption"
   },
   "transactions": {
-    "points": "{} Coins"
+    "points": "{} Coins",
+    "empty": "No Transaction"
   },
   "profile": {
     "points": "X{}"
@@ -147,7 +167,7 @@
   "dialog": {
     "check_in": {
       "title": "Check in successfully",
-      "content": "Got {} coins from \"{}\""
+      "content": "Got {points} {type} coins from \"{name}\""
     },
     "redeem": {
       "title": "Redeem successfully",
