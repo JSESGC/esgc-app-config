@@ -91,9 +91,9 @@
     "experience": "氧氣值：{}",
     "start_datetime": "開始時間：{}",
     "end_datetime": "結束時間：{}",
-    "e_coin": "E金幣",
-    "s_coin": "S金幣",
-    "g_coin": "G金幣"
+    "e_coin": "E幣",
+    "s_coin": "S幣",
+    "g_coin": "G幣"
   },
   "filter": {
     "all": "全部",
