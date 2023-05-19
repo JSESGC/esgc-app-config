@@ -93,7 +93,8 @@
     "end_datetime": "結束時間：{}",
     "e_coin": "E幣",
     "s_coin": "S幣",
-    "g_coin": "G幣"
+    "g_coin": "G幣",
+    "coming_soon":  "敬請期待"
   },
   "filter": {
     "all": "全部",

@@ -89,7 +89,8 @@
     "end_datetime": "End DateTime：{}",
     "e_coin": "E coin",
     "s_coin": "S coin",
-    "g_coin": "G coin"
+    "g_coin": "G coin",
+    "coming_soon":  "Coming Soon"
   },
   "filter": {
     "all": "All",
