@@ -98,9 +98,9 @@
     "luck_draw": "Luck Draw",
     "nft": "NFT",
     "service": "Service",
-    "environmental": "Environmental",
-    "social": "Social",
-    "governance": "Governance"
+    "environmental": "E Type",
+    "social": "S Type",
+    "governance": "G Type"
   },
   "subtitle": {
     "more": "More"
