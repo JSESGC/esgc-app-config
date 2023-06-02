@@ -22,7 +22,8 @@
     "sold_out": "沒有存貨",
     "ok": "好的",
     "confirm": "確認",
-    "logout": "登出"
+    "logout": "登出",
+    "delete_account": "刪除帳戶"
   },
   "input": {
     "mobile": {
@@ -192,6 +193,11 @@
   "logout": {
     "title": "登出",
     "content": "您確定登出嗎？"
+  },
+  "delete_account": {
+    "title": "刪除帳戶",
+    "content": "您確定刪除帳戶嗎？",
+    "notice": "你的帳戶刪除請求已收到，處理完成後我們會通過短信通知您。在此期間，您的帳戶仍然可以使用。"
   },
   "exit": "再按一次退出",
   "error": {

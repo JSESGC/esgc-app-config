@@ -22,7 +22,8 @@
     "sold_out": "Out of Stock",
     "ok": "OK",
     "confirm": "Confirm",
-    "logout": "Logout"
+    "logout": "Logout",
+    "delete_account": "Delete Account"
   },
   "input": {
     "mobile": {
@@ -188,6 +189,11 @@
   "logout": {
     "title": "Logout",
     "content": "Are you sure to sign out now?"
+  },
+  "delete_account": {
+    "title": "Delete Account",
+    "content": "Are you sure to delete account now?",
+    "notice": "Your account deletion request has been received. We'll notify you via SMS once the process is complete. Your account remains accessible in the meantime."
   },
   "exit": "Press again to exit",
   "error": {
