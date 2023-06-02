@@ -1,5 +1,5 @@
 {
-  "app.name": "ESG環友理",
+  "app.name": "ESG2Go",
   "language": {
     "short": "中",
     "en": "English",
@@ -46,7 +46,8 @@
     "terms_conditions": "Terms and Conditions",
     "and": " & ",
     "privacy_policy": "Privacy Policy",
-    "end": "."
+    "end": ".",
+    "collect_data": "Your data will be collected to reflect selected company's ESG performance."
   },
   "terms_conditions": {
     "title": "Terms & Conditions",
@@ -74,7 +75,7 @@
     "redemption": "Gift Redemption",
     "events": "Hot Events",
     "contact": "Contact",
-    "home": "ESGC",
+    "home": "ESG2Go",
     "activity": "ESG Events",
     "profile": "My ESG",
     "qrcode": "QRCode",
@@ -84,7 +85,7 @@
     "my_activity": "My Activity",
     "redemption_history": "Redemption History",
     "transaction_history": "Transaction History",
-    "experience": "Oxygen Experience: {}",
+    "experience": "Experience: {}",
     "start_datetime": "Start DateTime: {}",
     "end_datetime": "End DateTime：{}",
     "e_coin": "E coin",

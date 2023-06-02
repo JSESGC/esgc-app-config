@@ -1,5 +1,5 @@
 {
-  "app.name": "ESG環友理",
+  "app.name": "ESG環友狸",
   "language": {
     "short": "EN",
     "en": "English",
@@ -50,7 +50,8 @@
     "terms_conditions": "條款及細則",
     "and": "和",
     "privacy_policy": "私隱政策",
-    "end": "。"
+    "end": "。",
+    "collect_data": "您的資料將被收集以反映該公司的ESG表現。"
   },
   "terms_conditions": {
     "title": "條款及細則",
@@ -78,7 +79,7 @@
     "redemption": "禮品兌換",
     "events": "熱門活動",
     "contact": "通訊",
-    "home": "ESG環友理",
+    "home": "ESG環友狸",
     "activity": "ESG獎賞活動",
     "profile": "我的ESG空間",
     "qrcode": "二維碼",
@@ -88,7 +89,7 @@
     "my_activity": "我的活動",
     "redemption_history": "兌換歷史",
     "transaction_history": "交易歷史",
-    "experience": "氧氣值：{}",
+    "experience": "經驗值：{}",
     "start_datetime": "開始時間：{}",
     "end_datetime": "結束時間：{}",
     "e_coin": "E幣",
