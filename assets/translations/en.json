@@ -18,8 +18,9 @@
     "done": "Done",
     "view_more": "View More",
     "check_in": "Check In",
-    "redeem": "Redeem",
+    "redeem": "Redeem({})",
     "sold_out": "Out of Stock",
+    "to_redeem": "To Redeem",
     "ok": "OK",
     "confirm": "Confirm",
     "logout": "Logout",
@@ -78,7 +79,7 @@
     "contact": "Contact",
     "home": "ESG2Go",
     "activity": "ESG Events",
-    "profile": "My ESG",
+    "profile": "Me",
     "qrcode": "QRCode",
     "settings": "Settings",
     "asset_wallet": "My Asset",
@@ -86,12 +87,14 @@
     "my_activity": "My Activity",
     "redemption_history": "Redemption History",
     "transaction_history": "Transaction History",
-    "experience": "Experience: {}",
+    "experience": "Exp",
     "start_datetime": "Start DateTime: {}",
     "end_datetime": "End DateTime：{}",
     "e_coin": "E coin",
     "s_coin": "S coin",
     "g_coin": "G coin",
+    "coin": "coin",
+    "coin_balance": "Coin Balance",
     "coming_soon":  "Coming Soon"
   },
   "filter": {
@@ -194,6 +197,10 @@
     "title": "Delete Account",
     "content": "Are you sure to delete account now?",
     "notice": "Your account deletion request has been received. We'll notify you via SMS once the process is complete. Your account remains accessible in the meantime."
+  },
+  "inactive": {
+    "title": "Your account is locked",
+    "content": "Your account is locked, please contact inquiry@esg-c.org to release."
   },
   "exit": "Press again to exit",
   "error": {
