@@ -90,6 +90,7 @@
     "experience": "Exp",
     "start_datetime": "Start DateTime: {}",
     "end_datetime": "End DateTime：{}",
+    "attend_no": "Attend No.: {}",
     "e_coin": "E coin",
     "s_coin": "S coin",
     "g_coin": "G coin",

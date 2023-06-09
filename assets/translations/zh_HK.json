@@ -94,6 +94,7 @@
     "experience": "經驗值",
     "start_datetime": "開始時間：{}",
     "end_datetime": "結束時間：{}",
+    "attend_no": "參加次數：{}",
     "e_coin": "E幣",
     "s_coin": "S幣",
     "g_coin": "G幣",
