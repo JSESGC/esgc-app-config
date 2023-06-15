@@ -1,5 +1,5 @@
 {
-  "app.name": "ESG環友狸",
+  "app.name": "ESG環友理",
   "language": {
     "short": "EN",
     "en": "English",
@@ -81,7 +81,7 @@
     "redemption": "禮品兌換",
     "events": "熱門活動",
     "contact": "通訊",
-    "home": "ESG環友狸",
+    "home": "ESG環友理",
     "activity": "ESG獎賞活動",
     "profile": "我的",
     "qrcode": "二維碼",
@@ -105,7 +105,7 @@
   "filter": {
     "all": "全部",
     "gift": "禮品",
-    "luck_draw": "抽獎券",
+    "lucky_draw": "抽獎券",
     "nft": "NFT",
     "service": "服務",
     "environmental": "環境",
