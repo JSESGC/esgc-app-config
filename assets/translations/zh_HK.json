@@ -57,11 +57,11 @@
   },
   "terms_conditions": {
     "title": "條款及細則",
-    "url": "/esgc-terms-of-use.pdf"
+    "url": "/esgc-terms-of-use-cn.pdf"
   },
   "privacy_policy": {
     "title": "私隱政策",
-    "url": "/esgc-privacy-policy.pdf"
+    "url": "/esgc-privacy-policy-cn.pdf"
   },
   "otp": {
     "sent_to_mobile": "請填寫我們發送到\n{}的一次性驗證碼"
@@ -133,15 +133,15 @@
       "mode": "暗色模式",
       "terms_conditions": {
         "title": "條款及細則",
-        "url": "/esgc-terms-of-use.pdf"
+        "url": "/esgc-terms-of-use-cn.pdf"
       },
       "privacy_policy": {
         "title": "私隱政策",
-        "url": "/esgc-privacy-policy.pdf"
+        "url": "/esgc-privacy-policy-cn.pdf"
       },
       "faq": {
         "title": "常見問題",
-        "url": "/esgc-about-qa.pdf"
+        "url": "/esgc-about-qa-cn.pdf"
       }
     },
     "version": "版本"
