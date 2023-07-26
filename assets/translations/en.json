@@ -5,6 +5,12 @@
     "en": "English",
     "zh": "中文"
   },
+  "environment": {
+    "local": "LOCAL",
+    "dev": "DEV",
+    "uat": "UAT",
+    "prod": "PROD"
+  },
   "btn": {
     "cancel": "Cancel",
     "update": "Update",
@@ -96,7 +102,7 @@
     "g_coin": "G coin",
     "coin": "coin",
     "coin_balance": "Total Coins",
-    "coming_soon":  "Coming Soon"
+    "coming_soon": "Coming Soon"
   },
   "filter": {
     "all": "All",
@@ -125,6 +131,7 @@
       "information": "Information"
     },
     "tile": {
+      "environment": "Environment",
       "language": "Language",
       "mode": "Dark Mode",
       "terms_conditions": {
