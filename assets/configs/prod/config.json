@@ -1,7 +1,7 @@
 {
   "version": {
     "number": "1.0.2",
-    "force_update": true,
+    "force_update": false,
     "title": "New Version Available",
     "title_zh": "版本更新",
     "content": "A newer version of the app is available",
